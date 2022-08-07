@@ -2,6 +2,7 @@ import time
 
 from context_manager.lab2 import Timer
 
+
 def test_timer():
 
     with Timer() as timer:
